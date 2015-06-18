@@ -304,8 +304,13 @@ cd-google-map address {
   position: absolute;
   top: 0;
   left: 0;
+  margin-left: 7px;
+  margin-right: 7px;
   min-width: 100%;
   height: 300px;
+}
+.carousel-inner > .item carousel-caption {
+  padding-left: 16px;
 }
 /***********************************
 /
