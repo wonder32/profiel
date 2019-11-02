@@ -115,6 +115,17 @@ li right,
   font-size: 13px;
   margin-top: 4px;
 }
+
+span.mijn-info.small-star {
+  min-width: 75px;
+}
+i.fa.fa-star,
+i.fa.fa-star-half,
+i.fa.fa-star-o
+{
+  min-width: 11px;
+}
+
 a {
   color: #08c;
 }
