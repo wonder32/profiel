@@ -93,16 +93,6 @@ jQuery(document).ready(function($){
 			]
 		},
 		{
-			featureType: "poi.sport_complex",
-			elementType: "geometry.fill",
-			stylers: [
-				{ hue: main_color },
-				{ visibility: "on" }, 
-				{ lightness: brightness_value }, 
-				{ saturation: saturation_value }
-			]
-		},
-		{
 			featureType: "poi.attraction",
 			elementType: "geometry.fill",
 			stylers: [
